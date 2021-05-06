@@ -1,0 +1,17 @@
+```javascript
+let danny = {
+  tags: [ "husband", "father" ],
+  job: "Software Engineer",
+  experience: "6 years",
+  languages: [
+    "JavaScript", 
+    "C#", 
+    "SQL"
+  ],
+  frameworks: [
+    "Svelte", 
+    "(P)React", 
+    "Node.js"
+  ],
+};
+```

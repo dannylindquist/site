@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_MISSING_PACKAGE_NAME",
+    "err": {
+      "name": "Error",
+      "message": "`pnpm add` requires the package name",
+      "code": "ERR_PNPM_MISSING_PACKAGE_NAME",
+      "stack": "Error: `pnpm add` requires the package name\n    at Object.handler [as add] (/Users/danny/.nvm/versions/node/v16.0.0/pnpm-global/5/node_modules/.pnpm/pnpm@6.2.3/node_modules/pnpm/dist/pnpm.cjs:114386:13)\n    at Timeout._onTimeout (/Users/danny/.nvm/versions/node/v16.0.0/pnpm-global/5/node_modules/.pnpm/pnpm@6.2.3/node_modules/pnpm/dist/pnpm.cjs:123362:84)\n    at listOnTimeout (node:internal/timers:557:17)\n    at processTimers (node:internal/timers:500:7)"
+    }
+  }
+}
